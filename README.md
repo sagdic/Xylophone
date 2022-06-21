@@ -3,9 +3,7 @@
 # Xylophone
 
 
-* How to play sound using AVFoundation and AVAudioPlayer.
-* Functions and methods in Swift. 
-* Data types.
+* Play sound using AVFoundation and AVAudioPlayer.
 * Swift loops.
 * Variable scope.
 * The ViewController lifecycle.
